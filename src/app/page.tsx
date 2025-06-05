@@ -1,3 +1,5 @@
+export const dynamic = "force-static";
+
 export default function Home() {
   return (
     <div className="space-y-8 mx-auto max-w-xl p-8">
