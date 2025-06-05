@@ -1,9 +1,22 @@
 export default {
   version: 0.1,
   files: {
+    "app/not-found.tsx": {
+      entries: {
+        "1/declaration/body/0/argument": {
+          content: {
+            de: "Nicht gefunden",
+            en: "Not Found",
+            es: "No encontrado",
+            fr: "Non trouvé",
+          },
+          hash: "7c0aef477b74c1a91a097dbe491c3772",
+        },
+      },
+    },
     "app/page.tsx": {
       entries: {
-        "0/declaration/body/0/argument/1": {
+        "2/declaration/body/0/argument/3": {
           content: {
             de: "Einfache statische App",
             en: "Simple Static App",
@@ -12,7 +25,7 @@ export default {
           },
           hash: "f0a4ada26172730ae6fd1cf84ac4b10a",
         },
-        "0/declaration/body/0/argument/3": {
+        "2/declaration/body/0/argument/5": {
           content: {
             de: "Dies ist eine einfache statische App, die verwendet werden kann, um die Integration des Ling.dev Compilers zu testen.",
             en: "This is a simple static app that can be used to test Ling.dev Compiler integration.",
@@ -21,7 +34,7 @@ export default {
           },
           hash: "11b51a9ba83ceff95b24b270cb2b5d34",
         },
-        "0/declaration/body/0/argument/5": {
+        "2/declaration/body/0/argument/7": {
           content: {
             de: "Dies ist ein Text, der verwendet werden kann, um die Übersetzung zu testen.",
             en: "This is some text that can be used to test the translation.",
@@ -30,9 +43,9 @@ export default {
           },
           hash: "25991716ed68eef79ddb6e80f78c482c",
         },
-        "0/declaration/body/0/argument/7/1": {
+        "2/declaration/body/0/argument/9/1": {
           content: {
-            de: "Klicken Sie mich",
+            de: "Klicke mich",
             en: "Click me",
             es: "Haz clic aquí",
             fr: "Cliquez-moi",

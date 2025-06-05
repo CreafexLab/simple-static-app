@@ -1,8 +1,12 @@
+import { LocaleSwitcher } from "lingo.dev/react/client";
+
 export const dynamic = "force-static";
 
 export default function Home() {
   return (
     <div className="space-y-8 mx-auto max-w-xl p-8">
+      <LocaleSwitcher locales={["en", "es", "fr", "de"]} />
+
       <h1 className="text-2xl font-bold text-center">Simple Static App</h1>
 
       <p>This is a simple static app that can be used to test Ling.dev Compiler integration.</p>

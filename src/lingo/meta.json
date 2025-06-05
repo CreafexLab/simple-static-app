@@ -15,7 +15,7 @@
     },
     "app/page.tsx": {
       "scopes": {
-        "0/declaration/body/0/argument/1": {
+        "2/declaration/body/0/argument/3": {
           "type": "element",
           "hash": "f0a4ada26172730ae6fd1cf84ac4b10a",
           "context": "",
@@ -23,7 +23,7 @@
           "overrides": {},
           "content": "Simple Static App"
         },
-        "0/declaration/body/0/argument/3": {
+        "2/declaration/body/0/argument/5": {
           "type": "element",
           "hash": "11b51a9ba83ceff95b24b270cb2b5d34",
           "context": "",
@@ -31,7 +31,7 @@
           "overrides": {},
           "content": "This is a simple static app that can be used to test Ling.dev Compiler integration."
         },
-        "0/declaration/body/0/argument/5": {
+        "2/declaration/body/0/argument/7": {
           "type": "element",
           "hash": "25991716ed68eef79ddb6e80f78c482c",
           "context": "",
@@ -39,39 +39,7 @@
           "overrides": {},
           "content": "This is some text that can be used to test the translation."
         },
-        "0/declaration/body/0/argument/7/1": {
-          "type": "element",
-          "hash": "9e6cf86f33db401a10e0e8494db1854d",
-          "context": "",
-          "skip": false,
-          "overrides": {},
-          "content": "Click me"
-        },
-        "1/declaration/body/0/argument/1": {
-          "type": "element",
-          "hash": "f0a4ada26172730ae6fd1cf84ac4b10a",
-          "context": "",
-          "skip": false,
-          "overrides": {},
-          "content": "Simple Static App"
-        },
-        "1/declaration/body/0/argument/3": {
-          "type": "element",
-          "hash": "11b51a9ba83ceff95b24b270cb2b5d34",
-          "context": "",
-          "skip": false,
-          "overrides": {},
-          "content": "This is a simple static app that can be used to test Ling.dev Compiler integration."
-        },
-        "1/declaration/body/0/argument/5": {
-          "type": "element",
-          "hash": "25991716ed68eef79ddb6e80f78c482c",
-          "context": "",
-          "skip": false,
-          "overrides": {},
-          "content": "This is some text that can be used to test the translation."
-        },
-        "1/declaration/body/0/argument/7/1": {
+        "2/declaration/body/0/argument/9/1": {
           "type": "element",
           "hash": "9e6cf86f33db401a10e0e8494db1854d",
           "context": "",
